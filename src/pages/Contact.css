@@ -1,0 +1,35 @@
+.contact {
+  font-size: 1.25rem;
+  line-height: 1.25;
+  padding: 0 2em;
+  text-align: center;
+  position: relative;
+  margin: auto;
+  grid-area: 1 / 1 / auto / span 3;
+}
+
+.contact h2 {
+  margin: 0;
+  color: #0b5183;
+}
+.contact strong {
+  color: #0b5183;
+}
+.contact a {
+  color: #0b5183;
+  font-weight: bold;
+  font-size: 1.25rem;
+  text-decoration: none;
+}
+.contact p {
+  font-size: 1rem;
+  max-width: 36ch;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  font-style: italic;
+}
+.contact p a {
+  font-size: 1rem;
+  text-decoration: none;
+}
